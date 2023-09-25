@@ -72,8 +72,10 @@
     background: white;
     margin-bottom: 2vw;
     border-radius: 2vw;
+    padding: 2vw;
 }
 
 #test2{
     background-color: #5e1224!important;
+    height: 100vh;
 }
