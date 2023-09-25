@@ -66,7 +66,7 @@
 }
 
 .content2{
-    margin-top: 3vw;
+    margin-top: 10vw;
     margin-left: 2vw;
     margin-right: 2vw;
     background: white;
@@ -78,4 +78,10 @@
 #test2{
     background-color: #5e1224!important;
     height: 100vh;
+}
+
+.title{
+    color: white;
+    text-align: center;
+    margin-bottom: 5vw;
 }
